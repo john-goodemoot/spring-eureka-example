@@ -12,7 +12,20 @@
 *.jar
 *.rar
 *.tar
-*.zip 
+*.zip
+
+# Logs and databases #
+######################
+*.log
+
+1 # Compiled source #
+2 ###################
+*.com
+*.class
+*.dll
+*.exe
+*.o 
+*.so
 
 ### STS ###
 .apt_generated
